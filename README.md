@@ -1,1 +1,1 @@
-# PedCardioCurriculum
+# PedsCardioCurriculum
